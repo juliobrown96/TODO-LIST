@@ -55,7 +55,7 @@ body{
 
 }
 
-.list-task{
+.list-tasks{
     width: 100%;
     list-style: none;
     
@@ -84,3 +84,10 @@ img{
     opacity: 1;
     cursor: pointer;
 }
+
+.done {
+    background-color: #8fac55;
+    text-decoration: line-through;
+}
+
+
